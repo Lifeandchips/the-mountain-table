@@ -197,7 +197,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Example: 919876543210
     // =====================================================
 
-    const reservationWhatsAppNumber = "918768458504";
+    const reservationWhatsAppNumber = "911234567891";
 
     if (reservationForm) {
 
